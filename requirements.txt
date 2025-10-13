@@ -1,0 +1,9 @@
+transformers
+datasets
+pandas 
+scikit-learn
+torch 
+streamlit
+ipykernel
+matplotlib
+accelerate
