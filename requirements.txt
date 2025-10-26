@@ -8,3 +8,5 @@ ipykernel
 matplotlib
 accelerate
 nltk
+flask
+flask_cors
